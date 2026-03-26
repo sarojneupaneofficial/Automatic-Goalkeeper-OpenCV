@@ -31,7 +31,7 @@ The system uses a Raspberry Pi, OpenCV, and Python to detect ball movement and c
 
 Clone the repository:
 
-git clone https://github.com/yourusername/automatic-goalkeeper-opencv.git
+git clone https://github.com/sarojneupaneofficial/automatic-goalkeeper-opencv.git
 
 Install dependencies:
 
