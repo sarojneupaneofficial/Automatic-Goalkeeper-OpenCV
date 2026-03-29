@@ -46,3 +46,6 @@ python main.py
 - Improve ball tracking accuracy
 - Add machine learning prediction
 - Increase servo response speed
+
+  ##Author
+  Saroj Neupane
