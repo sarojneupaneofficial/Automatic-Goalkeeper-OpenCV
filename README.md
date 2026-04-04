@@ -48,4 +48,6 @@ python main.py
 - Increase servo response speed
 
   ##Author
+  
   Saroj Neupane
+  sarojneupane114@gmail.com
