@@ -13,6 +13,7 @@ The system uses a Raspberry Pi, OpenCV, and Python to detect ball movement and c
 - Camera Module
 - Breadboard
 - Jumper wires
+- Ball
 
 ## Software Used
 
