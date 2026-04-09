@@ -52,3 +52,4 @@ python main.py
   
   Saroj Neupane
   sarojneupane114@gmail.com
+  Computer Engineering Technician
