@@ -1,8 +1,7 @@
-# Automatic Goalkeeper using Raspberry Pi and OpenCV
+ ## Automatic Goalkeeper using Raspberry Pi and OpenCV
 
 ## Project Overview
-
-This project is an automated football goalkeeper system that detects the ball using computer vision and moves a servo motor to block the shot.
+"This project is an automated football goalkeeper system that detects the ball using computer vision and moves a servo motor to block the shot." We made this project in final semester in Technical Project course.
 
 The system uses a Raspberry Pi, OpenCV, and Python to detect ball movement and control a mechanical goalkeeper.
 
@@ -50,6 +49,6 @@ python main.py
 
   ##Author
   
-  Saroj Neupane
-  sarojneupane114@gmail.com
-  Computer Engineering Technician
+  - Saroj Neupane
+  - sarojneupane114@gmail.com
+  - Computer Engineering Technician
