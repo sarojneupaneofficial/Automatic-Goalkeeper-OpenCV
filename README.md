@@ -26,6 +26,7 @@ The system uses a Raspberry Pi, OpenCV, and Python to detect ball movement and c
 2. OpenCV detects the moving ball.
 3. The system calculates the ball position.
 4. The servo motor moves the goalkeeper accordingly.
+5. LED will flash after the save is being made
 
 ## Installation
 
@@ -46,6 +47,7 @@ python main.py
 - Improve ball tracking accuracy
 - Add machine learning prediction
 - Increase servo response speed
+- Increasing Impact Ratio
 
   ##Author
   
