@@ -54,4 +54,4 @@ python main.py
   - sarojneupane114@gmail.com
   - Computer Engineering Technician
   - Data Engineer
-  - Cloud Architect
+  - AI Enthusiast
